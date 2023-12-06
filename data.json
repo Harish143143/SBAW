@@ -1,0 +1,50 @@
+[
+    {
+        "Category": "January",
+        "Value": 35000
+    },
+    {
+        "Category": "February",
+        "Value": 36000
+    },
+    {
+        "Category": "March",
+        "Value": 37000
+    },
+    {
+        "Category": "April",
+        "Value": 30000
+    },
+    {
+        "Category": "May",
+        "Value": 35000
+    },
+    {
+        "Category": "June",
+        "Value": 31000
+    },
+    {
+        "Category": "July",
+        "Value": 33000
+    },
+    {
+        "Category": "August",
+        "Value": 61000
+    },
+    {
+        "Category": "September",
+        "Value": 66000
+    },
+    {
+        "Category": "October",
+        "Value": 65000
+    },
+    {
+        "Category": "November",
+        "Value": 69000
+    },
+    {
+        "Category": "December",
+        "Value": 62000
+    }
+]
